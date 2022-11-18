@@ -1,0 +1,7 @@
+.rs-table-cell, .rs-table-hover .rs-table-row:hover .rs-table-cell, .rs-table-hover .rs-table-row:hover .rs-table-cell-group, .rs-table-row-expanded, .rs-table-row-header, .rs-table-row-header .rs-table-cell
+{
+  background-color: #00000000 !important;
+}
+.rs-table-hover .rs-table-row:hover .rs-table-cell, .rs-table-hover .rs-table-row:hover .rs-table-cell-group, .rs-table-hover .rs-table-row:not(.rs-table-row-header):hover{
+  background-color: #575757;
+}
